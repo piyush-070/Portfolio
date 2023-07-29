@@ -3,7 +3,7 @@
 :root {
     --header-height: 3rem;
 
-    --hue-color: 230;
+    --hue-color: 250;
     /* purple 250 - green 142 - blue 230  pink-340 */
 
     --first-color: hsl(var(--hue-color), 69%, 61%);
